@@ -12,18 +12,18 @@ This project explores the configuration and implications of Security Groups and 
 The purpose of this project is to enhance understanding of cloud security mechanisms by implementing and testing Security Groups and NACLs. This will help in securing cloud applications and ensuring proper network traffic flow.
 
 ### 4. Requirements
-AWS Account with administrative access.
-Basic knowledge of cloud networking and security.
-An EC2 instance for testing.
-Access to AWS Management Console or AWS CLI.
+* AWS Account with administrative access.
+* Basic knowledge of cloud networking and security.
+* An EC2 instance for testing.
+* Access to AWS Management Console or AWS CLI.
 ### 5. Use Case
 This project is applicable in scenarios where organizations need to regulate access to cloud-based services while maintaining security. For example, an e-commerce application may require open access to users but restrict unauthorized internal communication.
 
 ### 6. Performance Goals
-Successfully configure Security Groups and NACLs.
-Demonstrate how changes in security rules impact accessibility.
-Achieve secure yet functional access to cloud-based applications.
-Document troubleshooting steps for resolving security-related issues.
+* Successfully configure Security Groups and NACLs.
+* Demonstrate how changes in security rules impact accessibility.
+* Achieve secure yet functional access to cloud-based applications.
+* Document troubleshooting steps for resolving security-related issues.
 
 ### 7. Project Steps and Commands
 #### 7.1. Navigate to the security groups section
