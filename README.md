@@ -25,7 +25,6 @@ Demonstrate how changes in security rules impact accessibility.
 Achieve secure yet functional access to cloud-based applications.
 Document troubleshooting steps for resolving security-related issues.
 
-## Security-and-NACL
 ### 7. Project Steps and Commands
 #### 7.1. Navigate to the security groups section
 ![security group](images/1.png)
